@@ -1,6 +1,6 @@
 # TOOL CRAWL DỮ LIỆU THỜI KHÓA BIỂU HCMUTE - SỬ DỤNG SELENIUM PYTHON
 ## Giới thiệu
-Đây là một Project cuối kỳ môn Tin học trong kỹ thuật sử dụng Selenium để crawl dữ liệu thời khóa biểu của trường ĐH SPKT (HCMUTE).
+Đây là một Project cuối kỳ môn Tin học trong kỹ thuật sử dụng thư viện Selenium để crawl dữ liệu thời khóa biểu của trường ĐH SPKT (HCMUTE).
 
 [Link video báo cáo](https://www.youtube.com/watch?v=xUdoQLjIr50&t=10s)
 
