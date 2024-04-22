@@ -1,9 +1,8 @@
 # TOOL CRAWL DỮ LIỆU THỜI KHÓA BIỂU HCMUTE - SỬ DỤNG SELENIUM PYTHON
-***Note: Đây chỉ là tool tác giả làm với mục đích sở thích cá nhân.***
 ## Giới thiệu
-Đây là một script nhỏ sử dụng Selenium để crawl dữ liệu thời khóa biểu của trường ĐHSPKT, một phần lí do mình viết tool này là vì trang của trường không xuất được thời khóa biểu ra được :) .
+Đây là một Project cuối kỳ môn Tin học trong kỹ thuật sử dụng Selenium để crawl dữ liệu thời khóa biểu của trường ĐH SPKT (HCMUTE).
 
-[Link video hướng dẫn của mình](https://www.youtube.com/watch?v=A-Usa0w-Nxw)
+[Link video báo cáo](https://www.youtube.com/watch?v=xUdoQLjIr50&t=10s)
 
 ## Tài nguyên
 * Thư viện Selenium Python - [Tài liệu tham khảo!](https://selenium-python.readthedocs.io/)
@@ -85,7 +84,3 @@ driver = Edge(executable_path='.\Driver\msedgedriver.exe', options=options)
   "THỨ 7": []
 }
 ```
-
-## Phát triển thêm
-***Với dữ liệu như thế này có thể phát triển thêm các tool khác hay ho hơn dựa trên dữ liệu này.***
-Thanks! ❤️
